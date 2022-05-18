@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SIG:project xmlns:SIG="http://maven.apache.org/POM/4.0.0"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <SIG:modelVersion>4.0.0</SIG:modelVersion>
+
+    <SIG:groupId>org.example</SIG:groupId>
+    <SIG:artifactId>Sales invoice generator final</SIG:artifactId>
+    <SIG:version>1.0-SNAPSHOT</SIG:version>
+
+    <SIG:properties>
+        <SIG:maven.compiler.source>18</SIG:maven.compiler.source>
+        <SIG:maven.compiler.target>18</SIG:maven.compiler.target>
+    </SIG:properties>
+
+</SIG:project>
