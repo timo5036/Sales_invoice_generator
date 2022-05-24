@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Sales invoice generator final:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sales_invoice_generator_final_jar</output-path>
+    <root id="archive" name="Sales invoice generator final.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Sales invoice generator final" />
+    </root>
+  </artifact>
+</component>
